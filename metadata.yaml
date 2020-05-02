@@ -1,0 +1,26 @@
+_repo: Lettres-d-un-innocent_61965
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dreyfus, Alfred
+    birthdate: 1859
+    deathdate: 1935
+    gutenberg_agent_id: '39212'
+    url: http://www.gutenberg.org/2009/agents/39212
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Dreyfus
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2020-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61965'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lettres d'un innocent
+url: http://www.gutenberg.org/ebooks/61965
